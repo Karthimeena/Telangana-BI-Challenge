@@ -1,7 +1,7 @@
-# Telangana-BI-Challenge
-# This is the project for providing isights for Teleanga Goverment Tourism Department
-# Tools used this project is powerBI and power point 
-# Provided insights for below requests
+### Telangana-BI-Challenge
+This is the project for providing isights for Teleanga Goverment Tourism Department
+Tools used this project is powerBI and power point 
+Provided insights for below requests
 
 1)	Top 10 districts overall 2016 – 2020
 
