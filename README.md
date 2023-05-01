@@ -1,5 +1,5 @@
 ### Telangana-BI-Challenge
-This is the project for providing isights for Teleanga Goverment Tourism Department
+This is the project for providing insights for Teleangana Goverment Tourism Department
 Tools used this project is powerBI and power point 
 Provided insights for below requests
 
